@@ -12,7 +12,7 @@ class ScrollPage extends StatelessWidget {
       ],
     ));
   }
-//ajustando
+
   Widget _pagina1() {
     return Stack(
       children: <Widget>[
