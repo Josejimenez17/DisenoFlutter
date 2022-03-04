@@ -26,6 +26,7 @@ class BotonesPage extends StatelessWidget {
     );
   }
 
+
   Widget _fondoApp() {
     final gradiente = Container(
       width: double.infinity,
