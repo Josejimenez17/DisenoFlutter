@@ -6,7 +6,7 @@ class BasicoPage extends StatelessWidget {
   final estiloTitulo = TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold);
   final estiloSubTitulo = TextStyle(fontSize: 20.0, color: Colors.grey);
 
-//Inicial
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
